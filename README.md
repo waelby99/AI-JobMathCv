@@ -10,9 +10,6 @@
 - 🧩 **GUI Interface** — User-friendly Tkinter interface for uploading CVs, managing keywords, and viewing job matches.
 - 📦 **Save Results** — Export matching jobs to JSON for later reference.
 
-## 🖥️ Screenshots
-
-> Add screenshots of the GUI here if available!
 
 ## 📦 Requirements
 
