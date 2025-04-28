@@ -1,4 +1,4 @@
-# 🧠 JobMatch AI 
+# 🧠 JobMatch AI  
 
 **JobMatch AI** is a desktop application built with Python and Tkinter that helps you find job listings that match the skills extracted from your CV. It scrapes job listings from **LinkedIn** and **Indeed**, automatically detects technical skills from your resume (PDF format), and matches them to job postings in real-time.
 
